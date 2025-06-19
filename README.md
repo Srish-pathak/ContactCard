@@ -10,11 +10,4 @@ The `ContactCard` is a reusable and responsive component designed to display a p
 
 ## 🚀 Demo
 
-> 📍 You can view a live demo here: [Live Demo Link](https://ycom)
-
-## 💡 How to Use
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com//contact-card.git
+> 📍 You can view a live demo here: [Live Demo Link](https://srish-pathak.github.io/ContactCard/)
